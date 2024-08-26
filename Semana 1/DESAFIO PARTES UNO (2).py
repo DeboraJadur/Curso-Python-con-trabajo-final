@@ -1,0 +1,5 @@
+print("Ingresa tu nombre")
+nombre = input()
+print("Ingresa tu apellido")
+apellido= input()
+print("El nombre ingresado es, " + nombre + apellido)

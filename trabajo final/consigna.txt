@@ -1,0 +1,6 @@
+TP INTEGRADOR PYTHON
+Convertir el archivo de Excel en el formato .CSV
+Leer los datos del archivo .CSV y cargarlos en un diccionario.
+Mostrar por pantalla los datos completos de las personas con apellido Gomez.
+Crear un nuevo archivo .CSV y guardar los datos de las personas que tienen residencia en la ciudad de Santa Fe o Cordoba.
+IMPORTANTE: NO USAR LIBRERÍAS DE PYTHON PARA MANIPULAR DATOS. APLICAR LOS CONOCIMIENTOS APRENDIDOS EN EL CURSO.

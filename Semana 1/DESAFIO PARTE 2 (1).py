@@ -1,0 +1,6 @@
+print("Ingrese el primer nùmero")
+primernumero=input()
+print("Ingrese el segundo nùmero")
+segundonumero=input()
+suma= int(primernumero)+int(segundonumero)
+print("El resultado de la suma es"+ str(suma))
